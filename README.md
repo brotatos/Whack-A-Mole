@@ -19,3 +19,7 @@ using a latch.
 Finally, `Countdown` increments down from 30 to 0. Once the timer hits 0, the
 score is displayed and the user may no longer whack any moles (even as they
 continue to pop up).
+
+Schematic
+---------
+![High Level Diagram](https://raw.github.com/brotatos/Whack-A-Mole/master/diagrams/black_box.png)
