@@ -23,3 +23,5 @@ continue to pop up).
 Schematic
 ---------
 ![High Level Diagram](https://raw.github.com/brotatos/Whack-A-Mole/master/diagrams/black_box.png)
+
+[Here's a lower level diagram.](https://raw.github.com/brotatos/Whack-A-Mole/master/diagrams/schematic.png)
